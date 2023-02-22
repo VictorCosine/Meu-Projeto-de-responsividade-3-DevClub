@@ -14,9 +14,9 @@ div {
 
 .box-1 {
     display: inline-block;
-    width: 60%;
-    margin-top: 381px;
-    margin-left: 136px;
+    width: 55%;
+    margin-top: 260px;
+    margin-left: 100px;
 }
 
 .box-2 {
@@ -89,7 +89,7 @@ a:active {
 
 img {
     position: relative;
-    top: 177px;
+    top: 45px;
     right: 145px;
 }
 
